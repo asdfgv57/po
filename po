@@ -39,6 +39,20 @@
         </div>
         <!-- 필요한 만큼 프로젝트를 추가하세요. -->
     </section>
+<section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+        <h3>Project 1</h3>
+        <p>Description of Project 1.</p>
+        <a href="#">View Project</a>
+    </div>
+    <div class="project">
+        <h3>Project 2</h3>
+        <p>Description of Project 2.</p>
+        <a href="#">View Project</a>
+    </div>
+    <!-- 필요한 만큼 프로젝트를 추가하세요. -->
+</section>
 
     <section id="travel-agency">
         <h2>Travel Agency</h2>
