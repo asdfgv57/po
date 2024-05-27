@@ -34,6 +34,14 @@ section {
     background: #fff;
 }
 
+.project, .travel-package {
+    margin-bottom: 2em;
+}
+
+.project h3, .travel-package h3 {
+    margin-bottom: 0.5em;
+}
+
 footer {
     text-align: center;
     padding: 1em 0;
