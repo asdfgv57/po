@@ -18,6 +18,21 @@
             </ul>
         </nav>
     </header>
+<section id="travel-agency">
+    <h2>Travel Agency</h2>
+    <p>Welcome to our travel agency! We offer a variety of travel packages and services to make your trips unforgettable.</p>
+    <div class="travel-package">
+        <h3>Package 1</h3>
+        <p>Description of Travel Package 1.</p>
+        <a href="http://yourtravelagency.com/package1">View Package</a>
+    </div>
+    <div class="travel-package">
+        <h3>Package 2</h3>
+        <p>Description of Travel Package 2.</p>
+        <a href="http://yourtravelagency.com/package2">View Package</a>
+    </div>
+    <p>Visit our website for more details: <a href="http://yourtravelagency.com">http://yourtravelagency.com</a></p>
+</section>
 
     <section id="about">
         <h2>About Me</h2>
